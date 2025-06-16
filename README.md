@@ -10,3 +10,6 @@ A simple Python-based scanner to detect **SQL Injection** and **Cross-Site Scrip
 - ✅ Detects **Reflected XSS** via forms
 
 ---
+
+**Note:** This project is currently under active development.  
+Features, accuracy, and code structure may change as improvements are added :D.
