@@ -1,0 +1,21 @@
+==================================================
+Scan Report - 2025-06-16 21:49
+Target URL: https://www.zaproxy.org/
+==================================================
+
+[*] Memulai pemindaian terhadap https://www.zaproxy.org/
+Waktu: 2025-06-16 21:49
+==================================================
+[*] Checking SQL Injecction.....
+[-] Tidak ditemukan kerentanan SQLI.
+[*] checking XSS....
+[-] Tidak ditemukan kerentanan XSS.
+
+==================================================
+HASIL PEMINDAIAN AKHIR
+==================================================
+SQL Injection: Tidak ditemukan
+XSS: Tidak ditemukan
+==================================================
+[*] Pemindaian selesai.
+
